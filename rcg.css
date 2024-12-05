@@ -1,0 +1,50 @@
+body {
+    background-color: gray;
+    margin: 0;
+    color: #fff;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#main {
+    background-color: #000000;
+    margin: 5% auto;
+    padding: 2% 5%;
+    border-radius: 10px;
+    border: 1px solid black;
+    max-width: 600px;
+    text-align: center;
+}
+
+p {
+    color: #acaba6;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+a.button {
+    display: inline-block;
+    background-color: black;
+    color: wheat;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 10px;
+    box-shadow: 1px 2px 1px 1px #868686;
+}
+
+a.button:hover {
+    background-color: #ffffff;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0303;
+}
